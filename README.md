@@ -1,5 +1,22 @@
 # jphp-process-ext
-Process API for jphp
+Process API for jphp, more advanced and powerful!
+
+**Features**:
++ Get process info (command, command line, args, etc).
++ Kill processes and children processes.
++ Get all running processes in OS.
++ Get children and parent processes.
++ Get processes by PID.
+
+**Requires**
++ Java 9+
++ JPPM
+
+### How to install
+
+```bash
+jppm add jphp-process-ext
+```
 
 ### How to use?
 
