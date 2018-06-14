@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+build.gradle
+gradlew.bat
+gradlew
+gradle/
+.gradle/
+jars/
+
+package-lock.php.yml
+package.*.yml
+!package.php.yml
+
+.idea/
+build/
+
+vendor/
