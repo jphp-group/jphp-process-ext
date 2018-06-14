@@ -1,0 +1,14 @@
+name: jphp-process-ext
+version: 0.1.0
+description: Process API for jphp
+
+plugins: [Gradle]
+
+deps:
+  jphp-runtime: '*'
+  
+devDeps:
+  tester: '*'
+
+requires:
+  java: {version: '>=9.0.0'}
