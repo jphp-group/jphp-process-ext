@@ -1,5 +1,5 @@
 name: jphp-process-ext
-version: 0.1.0
+version: 0.1.1
 description: Process API for jphp
 
 plugins: [Gradle, Hub]
